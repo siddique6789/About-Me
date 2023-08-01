@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @siddique6789
 
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Java full stack
 
-- 🌱 I’m currently learning Computer Science Engineering
+- 🌱 Presently, I am engaged in a Java Developer role with KodNest.
 
 - 📫 Reach me @ abusiddi6789@gmail.com
 
