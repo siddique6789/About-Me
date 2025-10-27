@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @siddique6789
+- 👋 Hi, I’m Siddique
 
-- 👀 I’m interested in Java full stack
-
-- 🌱 Presently, I am engaged in a Java Developer role with KodNest.
+- A Full Stack Developer looking for innovative projects to contibute and learn.
 
 - 📫 Reach me @ abusiddi6789@gmail.com
 
